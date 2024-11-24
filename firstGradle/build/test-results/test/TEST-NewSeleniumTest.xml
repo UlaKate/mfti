@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="NewSeleniumTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-11-24T16:57:26" hostname="LAPTOP-B3NMR3FK" time="86.708">
+<testsuite name="NewSeleniumTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-11-24T17:34:31" hostname="LAPTOP-B3NMR3FK" time="108.842">
   <properties/>
-  <testcase name="CanCall()" classname="NewSeleniumTest" time="43.066"/>
-  <testcase name="OpenSiteTest()" classname="NewSeleniumTest" time="43.638"/>
+  <testcase name="CanCall()" classname="NewSeleniumTest" time="64.019"/>
+  <testcase name="OpenSiteTest()" classname="NewSeleniumTest" time="44.823"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
