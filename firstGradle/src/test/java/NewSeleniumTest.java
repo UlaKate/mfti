@@ -25,7 +25,7 @@ public class NewSeleniumTest {
     }
 
     @Test
-    void CanCall(){
+    void CanCallTest(){
         driver.get("https://dedmorozmos.ru/");
         WebElement icon = driver.findElement(By.xpath("//button[@class='burger']"));
         icon.click();
